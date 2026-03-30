@@ -1,7 +1,6 @@
 # Paper-Review
-- Computer Vision
+- 2D/3D Computer Vision
 - Generative AI
-- 2D / 3D
 
 ## 비판적으로 논문 읽기
 - 끊임없는 질문 하기
