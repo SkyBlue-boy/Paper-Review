@@ -9,3 +9,8 @@
 - 수식 유도 과정에서 이상한 부분은 없는지
 - 코드를 직접 돌려보기
 - 이 파트에서는 성능에 도움이 안될거 같은데 꼭 필요한 것인지 질문
+
+-------------
+
+⚠️ Some slides contain animated GIFs.
+To view them properly, please download and open the PPT file.
